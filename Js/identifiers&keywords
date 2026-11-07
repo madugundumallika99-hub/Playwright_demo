@@ -1,0 +1,62 @@
+var a=10;
+console.log(a);
+
+var $=20;
+console.log($);
+
+var _=30;
+console.log(_);
+
+var a1=40;
+console.log(a1);
+
+var a_1=50;
+console.log(a_1);
+
+var a$1=60;
+console.log(a$1);
+
+var a$1_=70;
+console.log(a$1_);
+
+var a$1_2=80;
+console.log(a$1_2);
+
+var a$1_2$=90;
+console.log(a$1_2$);
+
+var _a=100;
+console.log(_a);
+
+var ab123=110;
+console.log(ab123);
+
+//var 12=10;
+
+var name="mallika";
+var Name="mallika";
+console.log(name);
+console.log(Name);
+
+var malli_ka="hello";
+var malli$ka="hello";
+console.log(malli_ka);
+console.log(malli$ka);
+
+var firstName="mallika";  //camel case
+var first_name="mallika"; //snake case
+console.log(firstName);
+console.log(first_name);
+
+let FirstName="mallika";  //Pascal case
+console.log(FirstName);
+
+const MAX_SIZE = 100; //SCREAMING_SNAKE_CASE (constants)
+console.log(MAX_SIZE);
+
+//comments 
+/* multiple comments*/
+
+/** documentation**/
+
+
